@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <integer name="cameraPreviewHeight">3000</integer>
+    <integer name="cameraPreviewWidth">1024</integer>
+    <integer name="anim_duration_medium">300</integer>
+    <integer name="anim_duration_long">2500</integer>
+
+
+</resources>
